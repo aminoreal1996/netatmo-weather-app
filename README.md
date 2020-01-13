@@ -8,8 +8,8 @@ Weather Netatmo App is an interface aims to display weather data using the publi
 
 ## Some interfaces
 
-![Alt Text](public/images/Vue1.png)
-![Alt Text](public/images/Vue2.png)
+![Alt Text](public/images/Vue1.PNG)
+![Alt Text](public/images/Vue2.PNG)
 
 ## Requirements
 
