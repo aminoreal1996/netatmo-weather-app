@@ -6,7 +6,7 @@ Weather Netatmo App is an interface aims to display weather data using the publi
 
 ##helo
 
-![Alt Text](https://octodex.github.com/images/yaktocat.png)
+![Alt Text](public/images/Logo.png)
 
 ## Requirements
 
