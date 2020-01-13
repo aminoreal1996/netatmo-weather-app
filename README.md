@@ -6,7 +6,7 @@ Weather Netatmo App is an interface aims to display weather data using the publi
 
 ##helo
 
-![Alt Text](https://www.mediafire.com/view/r5s8twl409d1dma/Logo.png)
+![Alt Text] (https://octodex.github.com/images/yaktocat.png)
 
 ## Requirements
 
@@ -19,10 +19,10 @@ You should be able to run the following command after the installation procedure
 below.
 
     $ node --version
-    v0.10.24
+    v12.14.0
 
     $ npm --version
-    1.3.21
+    6.13.4
 #### Node installation on OS X
 
 You will need to use a Terminal. On OS X, you can find the default terminal in
