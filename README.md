@@ -1,4 +1,4 @@
-# PROJECT : Weather Netatmo App 
+# PROJECT : Weather Netatmo App *
 
 ## Introduction 
 
