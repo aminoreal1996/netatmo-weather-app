@@ -1,12 +1,15 @@
+![Alt Text](public/images/Logo.png)
+
 # PROJECT : Weather Netatmo App *
 
 ## Introduction 
 
 Weather Netatmo App is an interface aims to display weather data using the public API of the Netatmo Weathermap.
 
-##helo
+## Some interfaces
 
-![Alt Text](public/images/Logo.png)
+![Alt Text](public/images/Vue1.png)
+![Alt Text](public/images/Vue2.png)
 
 ## Requirements
 
